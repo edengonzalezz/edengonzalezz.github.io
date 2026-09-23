@@ -1,7 +1,23 @@
 ---
-title: "edengonzalezz.github.io"
+title: "Eden Gonzalez"
+image: "images/vlsb_grad.jpeg"
+toc: false
+about:
+    template: trestles
+    image-shape: rectangle
+    image-width: 17em
+    links:
+        - text: LinkedIn
+          href: https://www.linkedin.com/in/egoenz
+          target: _blank
+        - text: Email
+          href: mailto:edengonzalez@ucsb.edu
+        - text: GitHub
+          href: https://github.com/edengonzalezz
+          target: _blank
 ---
 
-This is a Quarto website.
+𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My name is Eden Gonzalez and I am pursuing my Masters in Environmental Data Science at the Bren School of Environmental Science & Management at UC Santa Barbara. Previously, I contributed to projects that span topics and geography such as: air quality in the Bay Area, cultural change in American estuaries, and soil health in Oaxaca, Mexico. During my time at Bren, I aim to continue to blend complex ecological questions with robust quantitative tools.
+
