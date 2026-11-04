@@ -1,0 +1,12 @@
+# re render posts only when source changes
+freeze: auto
+
+# banner stype title blocks
+title-block-banner: true
+
+# author info applied to all posts
+author:
+    - name: Eden Gonzalez
+      url:  https://edengonzalezz.github.io
+      affiliation: Master of Environmental Data Science Program @ The Bren School
+      affiliation-url: https://ucsb-meds.github.io

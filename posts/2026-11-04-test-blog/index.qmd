@@ -1,0 +1,33 @@
+---
+title: "My first blog post"
+description: A short description that appears on listing page
+date: 11-04-26
+categories: [Quarto, R, MEDS, Geospatial]
+bibliography: references.bib
+citation:
+    url: https://edengonzalezz.github.io/posts/2026-11-04-test-blog/
+image: ../images/Baltic_blooms_pillars.jpg
+draft: false
+---
+
+
+Here is where your blog content begins ...
+
+
+### Method 1 to add footnote
+
+I am going to insert a footnote here[^1].
+
+
+### Method 2 - Inline
+I a going to insert an inline footnote here^[Here is my inline footnote].
+
+```{r}
+1+1
+```
+
+
+This was explored in previous work [@csik2021].
+
+
+[^1]: Here is the associated footnote text
