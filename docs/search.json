@@ -1,37 +1,86 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Eden Gonzalez",
-    "section": "",
-    "text": "𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆞 𓆝 𓆟 𓆝\nMy name is Eden Gonzalez and I am pursuing my Masters in Environmental Data Science at the Bren School of Environmental Science & Management at UC Santa Barbara. Previously, I contributed to projects that span topics and geographies such as: air quality in the Bay Area, cultural change in American estuaries, and soil health in Oaxaca, Mexico. During my time at Bren, I aim to continue to blend complex ecological questions with robust quantitative tools. Outside of work, I enjoy baking, rollerskating, and photography!"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "My Blog",
-    "section": "",
-    "text": "My first blog post\n\n\n\nQuarto\n\nR\n\nMEDS\n\nGeospatial\n\n\n\nA short description that appears on listing page\n\n\n\n\n\nNov 4, 2026\n\n\nEden Gonzalez\n\n\n\n\n\nNo matching items"
+    "text": "Hello!\nI grew up in South Central Los Angeles where I explored Southern California’s beaches, deserts, and mountains. Environmental justice, stemming from my own experiences of unequal environmental burdens brought me to environmental science, but the methodology behind it are what keep me deeply fascinated by our natural world. My motivation for pursuing a career in environmental data science stems from the principle of serving our communities and ecosystems impacted by climate change. I strongly believe that data-driven solutions are powerful avenue for creating meaningful change.\n.・。.・゜✭・.\nAs of late I have been able to travel a bit around the globe, experiencing nature’s gifts and the wonderful human beings of the world. Here are some picutres I ♥\n\n\n\n\nmore pictures @algaebloomshere"
   },
   {
     "objectID": "posts/2026-11-04-test-blog/index.html",
     "href": "posts/2026-11-04-test-blog/index.html",
-    "title": "My first blog post",
+    "title": "Something’s Fishy",
     "section": "",
     "text": "Here is where your blog content begins …"
   },
   {
     "objectID": "posts/2026-11-04-test-blog/index.html#footnotes",
     "href": "posts/2026-11-04-test-blog/index.html#footnotes",
-    "title": "My first blog post",
+    "title": "Something’s Fishy",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nHere is the associated footnote text↩︎\nHere is my inline footnote↩︎"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Eden Gonzalez",
+    "section": "",
+    "text": "𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆞 𓆝 𓆟 𓆝\nMy name is Eden Gonzalez and I am pursuing my Masters in Environmental Data Science at the Bren School of Environmental Science & Management at UC Santa Barbara. Previously, I contributed to projects that span topics and geographies such as: air quality in the Bay Area, cultural change in American estuaries, and soil health in Oaxaca, Mexico. During my time at Bren, I aim to continue to blend complex ecological questions with robust quantitative tools. Outside of work, I enjoy baking, taking fun pictures, rollerskating!\n\nEducation\n✧ Master of Environmental Data Science | University of California, Santa Barbara (Expected June 2027)\n✧ Bachelor of Science in Environmental Sciences, minor in Mathematics | University of California, Berkeley (May 2026)"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "Something’s Fishy!\n\n\n\nMEDS\n\nInternational\n\n\n\nData Bias in Catch Estimates in Mozambique\n\n\n\n\n\nNov 11, 2026\n\n\nEden Gonzalez\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2026-11-04-ethics-blog/index.html",
+    "href": "posts/2026-11-04-ethics-blog/index.html",
+    "title": "Something’s Fishy!",
+    "section": "",
+    "text": "In 2004, Mozambique officially reported an 800% increase in small-scale fisheries catch in a single year (Zeller and Pauly). Unfortunately, this was not a miracle of oceanic life but a product of data bias."
+  },
+  {
+    "objectID": "posts/2026-11-04-ethics-blog/index.html#footnotes",
+    "href": "posts/2026-11-04-ethics-blog/index.html#footnotes",
+    "title": "Something’s Fishy!",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nHere is the associated footnote text↩︎\nHere is my inline footnote↩︎"
+  },
+  {
+    "objectID": "posts/2026-11-04-ethics-blog/index.html#sources-of-bias",
+    "href": "posts/2026-11-04-ethics-blog/index.html#sources-of-bias",
+    "title": "Something’s Fishy!",
+    "section": "Sources of bias",
+    "text": "Sources of bias\nThe bias stems from differences in reporting structures and changes in collection methods. It is an in-voluntary mixture of ascertainment, chronological, information, and reporting biases. Specifically:\n\nAscertainment Bias: Pre-2004 data captured industrial catch but largely ignored small-scale fisheries.\nChronological Bias: Only post-2004 data accounts for all fisheries after WWF’s intervention.\nInformation Bias: Mixing collection methods makes yearly comparisons across 2004 invalid\nReporting Bias: FAO barely attributes the 2003-2004 stark increase to new methods and not real growth.\n\nZeller and Pauly refer to the outcome of these biases as the presentist bias: when improvements in recent data collection are combined with uncorrected historical data in one continuous series.\n\n\n\nFishery and Aquaculture Country Profile - Mozambique\n\n\n\nCurrent data availability\nAs of FAO’s 2023 data release, Mozambique’s values prior to the updated data collection method remained uncorrected which makes their data ill-suited for time series analysis (Food and Agriculture Organization of the United Nations). Although Mozambique’s FOA country profile does note that the sudden increase in catch production after 2003 is due to data collection methods, this disclaimer sits outside of the dataset itself making it go unnoticed. Additionally, stock assessments, which are based on officially reported catch estimates, also tend to focus on commercially valuable species (Hillborn et al.) small-scale fisheries in data poor regions overlooked twice."
+  },
+  {
+    "objectID": "posts/2026-11-04-ethics-blog/index.html#impact-of-bias",
+    "href": "posts/2026-11-04-ethics-blog/index.html#impact-of-bias",
+    "title": "Something’s Fishy!",
+    "section": "Impact of Bias",
+    "text": "Impact of Bias\nAt face value, Mozambique’s time series of capture production suggests a thriving fishery when the opposite may be true. Historical catches were likely far higher than reported which means that any real change that is expected due to external factors such as climate change and policy remains hidden. Because catch data forms the basis of stock assessments, managers may conclude that Mozambique has flourishing stocks that can support more fishing. Reliance on unharmonized time series data makes it possible that authorities can over-license fishing access and mismanage marine ecosystems and effectively harm national food security (Jacquet). Coastal communities that depend on fishing for subsistence and income would come to bear the costs of over exploitation. Moreover, these hidden peculiarities in the data can chip away public trust in widely cited global organizations such as the FAO.\n\n\n\nCNN"
+  },
+  {
+    "objectID": "posts/2026-11-04-ethics-blog/index.html#current-data-availability",
+    "href": "posts/2026-11-04-ethics-blog/index.html#current-data-availability",
+    "title": "Something’s Fishy!",
+    "section": "Current data availability",
+    "text": "Current data availability\nAs of FAO’s 2023 data release, Mozambique’s values prior to the updated data collection method remained uncorrected which makes their data ill-suited for time series analysis (Food and Agriculture Organization of the United Nations). Although Mozambique’s FOA country profile does note that the sudden increase in catch production after 2003 is due to data collection methods, this disclaimer sits outside of the dataset itself making it go unnoticed. Additionally, stock assessments, which are based on officially reported catch estimates, also tend to focus on commercially valuable species (Hillborn et al.) small-scale fisheries in data poor regions overlooked twice."
+  },
+  {
+    "objectID": "posts/2026-11-04-ethics-blog/index.html#extractive-data-logic",
+    "href": "posts/2026-11-04-ethics-blog/index.html#extractive-data-logic",
+    "title": "Something’s Fishy!",
+    "section": "Extractive data logic",
+    "text": "Extractive data logic\nThe FAO permanently established itself in October of 1945 in response to the global loss of agriculture during World War II. It consisted of 45 countries with the intention of reducing food insecurity, alleviating poverty and improving nutrition (Pesek). Early on, the FAO stated that they intended to “obtain and publish essential fisheries statistics for all countries of the world” (Committee on Fisheries). Although admirable, the need for data from every country appears to have caused them to question it slightly less. The FAO approached data collection from each country, largely ignoring the context of the data. Mozambique was left to deliver their incomplete data to the FAO instead of having a holistic understanding of the deep conflicts the nation faced. This is what is regarded as extractive data logic: the act of pulling relation from bodies and land to data (Vera et al.). Prior to 2000, they overlooked that Mozambique was a small country with civil disputes making accurate fisheries data a lower priority concern. It was not until the 2000s when the WWF noticed the reverberating effects of their history on their ability to accurately estimate catches that the intensity of extractive data logic softened and aided the country."
+  },
+  {
+    "objectID": "posts/2026-11-04-ethics-blog/index.html#science-policy-dialogue",
+    "href": "posts/2026-11-04-ethics-blog/index.html#science-policy-dialogue",
+    "title": "Something’s Fishy!",
+    "section": "Science-policy dialogue",
+    "text": "Science-policy dialogue\nAdditionally, this highlights the need for effective dialogue between science and policy. To reiterate, the FAO is primarily a policy and intergovernmental advisory organization, though it relies heavily on scientific research. The scientific data they ask countries to report is the foundation to the policies that emerge from the Organization. It is not uncommon for policymakers to incorrectly interpret data for political momentum (Guest Lecture by Cori Lopazanski). Having data like Mozambique’s out there makes the likelihood of incorrect interpretation of data for political agendas occurring far greater. Making it appear as though fisheries in Mozambique have experienced much higher capture production than their historical amounts may cause incorrect allocation of aid and wrongly influence ecosystem management (Friess and Webb). Furthermore, it hides the global impact of climate change and commercial fishing for this already overlooked nation.\n\n\n\n&BEYOND"
   }
 ]

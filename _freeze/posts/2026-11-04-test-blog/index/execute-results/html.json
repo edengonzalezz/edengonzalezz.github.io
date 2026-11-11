@@ -1,9 +1,11 @@
 {
-  "hash": "039f92a25ecd76027f0f6f3187605f2a",
+  "hash": "6e1674bb11a61e8db1fc70fa3def5479",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"My first blog post\"\ndescription: A short description that appears on listing page\ndate: 11-04-26\ncategories: [Quarto, R, MEDS, Geospatial]\nbibliography: references.bib\ncitation:\n    url: https://edengonzalezz.github.io/posts/2026-11-04-test-blog/\nimage: ../images/Baltic_blooms_pillars.jpg\ndraft: false\n---\n\n\nHere is where your blog content begins ...\n\n\n### Method 1 to add footnote\n\nI am going to insert a footnote here[^1].\n\n\n### Method 2 - Inline\nI a going to insert an inline footnote here^[Here is my inline footnote].\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1+1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\nThis was explored in previous work [@csik2021].\n\n\n[^1]: Here is the associated footnote text",
-    "supporting": [],
+    "markdown": "---\ntitle: \"Something's Fishy\"\ndescription:  Data Bias in Catch Estimates in Mozambique\ndate: 11-11-26\ncategories: [MEDS, International]\nbibliography: references.bib\ncitation:\n    url: https://edengonzalezz.github.io/posts/2026-11-11-something-fishy/\nimage: /blogimages/black-marlin-mozambique_01.jpg\ndraft: false\n---\n\n\nHere is where your blog content begins ...\n\n\n### Method 1 to add footnote\n\nI am going to insert a footnote here[^1].\n\n\n### Method 2 - Inline\nI a going to insert an inline footnote here^[Here is my inline footnote].\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1+1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\nThis was explored in previous work [@csik2021].\n\n\n[^1]: Here is the associated footnote text",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
