@@ -1,5 +1,5 @@
 ---
-title: "Something's Fishy!"
+title: "Something's Fishy"
 description:  Data Bias in Catch Estimates in Mozambique
 date: 11-11-26
 categories: [MEDS, International]
@@ -20,15 +20,22 @@ In 2004, Mozambique officially reported an 800% increase in small-scale fisherie
 
 # FAO's capture production estimates
 
-Catch statistics compiled by the Food and Agriculture Organization (FAO) of the United Nations is the primary source for global fisheries science. For low-income countries that have been shaped by colonialism, civil war, and political reorganization, those reports can contain hidden nuances that make long-term data misleading. The FAO’s [Global Capture Production Database](https://www.fao.org/fishery/collection/capture/en) is the primary database scientists and policymakers use to analyze catch trends worldwide, and time series analyses in fisheries are standard. The Organization reports that wild capture fisheries catch about 86-92 million tonnes per year (Rigillo). It relies on member countries’ official reports which are typically drawn from government surveys. Thus, whenever a county’s capacity is weak, the data they report quietly inherits those weaknesses. Mozambique shows how unresolved changes in data collection lead to misinformed conclusions and can undermine the global tracking of fisheries.
+Catch statistics compiled by the Food and Agriculture Organization (FAO) of the United Nations is the primary source for global fisheries science.  Its [Global Capture Production Database](https://www.fao.org/fishery/collection/capture/en) is the primary database scientists and policymakers use to analyze catch trends worldwide, and time series analyses in fisheries are standard. For low-income countries that have been shaped by colonialism, civil war, and political reorganization, those reports can contain hidden nuances that make long-term data misleading. The Organization reports that wild capture fisheries catch about 86-92 million tonnes per year (Rigillo). It relies on member countries’ official reports which are typically drawn from government surveys. Thus, whenever a country’s capacity is weak, the data they report quietly inherits those weaknesses. Mozambique shows how unresolved changes in data collection lead to misinformed conclusions and can undermine the global tracking of fisheries.
 
 
 ![[360Mozambique](https://360mozambique.com/business/mozambique-exports-four-thousand-tonnes-of-fish-in-the-first-semester-of-2021/)](https://360mozambique.com/wp-content/uploads/2021/09/pescador-1080x675-1.jpg)
 
 
-# Fisheries data in Mozambique
+# Bias in Mozambique’s fisheries data 
 
-The World Bank ranks Mozambique as the second-poorest county in the globe (Manhique et al.).  Under Portuguese rule, the colonial administration reported almost exclusively industrial catches to the FAO. The small-scale sectors that account for most of the country’s fishing were largely absent. Mozambique’s independence from the Portuguese in 1975 was followed by a civil war from 1977-1992, which further prevented standardized monitoring. These events in conjunction made it so that their officially reported catches stayed consistently low. However, in the early 2000s, the FAO and the World Wildlife Fund (WWF) helped Mozambique create a systematic method to estimate their small-scale catches (Zeller and Pauly). Consequently, their capture estimates increased by 800% in the year after it was implemented. Clearly, this immense discrepancy is a product of different data collection methods. Despite this, the FAO displays the skewed data on their official website.
+The World Bank ranks Mozambique as the second-poorest country in the globe (Manhique et al.).  Under Portuguese rule, the colonial administration reported almost exclusively industrial catches to the FAO. The small-scale sectors that account for most of the country’s fishing were largely absent. Mozambique’s independence from the Portuguese in 1975 was followed by a civil war from 1977-1992, which further prevented standardized monitoring. These events in conjunction made it so that their officially reported catches stayed consistently low. However, in the early 2000s, the FAO and the World Wildlife Fund (WWF) helped Mozambique create a systematic method to estimate their small-scale catches (Zeller and Pauly). Consequently, their capture estimates increased by 800% in the year after it was implemented. Clearly, this immense discrepancy is a product of different data collection methods. Despite this, the FAO displays the skewed data on their official website (see graph below).
+
+
+![[Fishery and Aquaculture Country Profile - Mozambique](https://www.fao.org/fishery/facp/moz/en)](blogimages/global-capture-productio.png)
+
+### Current data 
+
+Although Mozambique’s FOA country profile does note that the sudden increase in catch production after 2003 is due to data collection methods, this disclaimer sits outside of the dataset itself making it go unnoticed. Additionally, stock assessments, which are based on officially reported catch estimates, also tend to focus on commercially valuable species (Hillborn et al.) small-scale fisheries in data poor regions overlooked twice. 
 
 
 
@@ -38,17 +45,12 @@ The bias stems from differences in reporting structures and changes in collectio
 
 - **Ascertainment Bias:** Pre-2004 data captured industrial catch but largely ignored small-scale fisheries.
 - **Chronological Bias:** Only post-2004 data accounts for all fisheries after WWF's intervention.
-- **Information Bias:** Mixing collection methods makes yearly comparisons across 2004 invalid
+- **Information Bias:** Mixing collection methods makes yearly comparisons across 2004 invalid.
 - **Reporting Bias:** FAO barely attributes the 2003-2004 stark increase to new methods and not real growth.
 
 Zeller and Pauly refer to the outcome of these biases as the *presentist bias:* when improvements in recent data collection are combined with uncorrected historical data in one continuous series. 
 
-![[Fishery and Aquaculture Country Profile - Mozambique](https://www.fao.org/fishery/facp/moz/en)](blogimages/global-capture-productio.png)
-
-### Current data availability 
-
-As of FAO’s 2023 data release, Mozambique’s values prior to the updated data collection method remained uncorrected which makes their data ill-suited for time series analysis (Food and Agriculture Organization of the United Nations). Although Mozambique’s FOA country profile does note that the sudden increase in catch production after 2003 is due to data collection methods, this disclaimer sits outside of the dataset itself making it go unnoticed. Additionally, stock assessments, which are based on officially reported catch estimates, also tend to focus on commercially valuable species (Hillborn et al.) small-scale fisheries in data poor regions overlooked twice. 
-
+![[Tiger Talk](https://www.facebook.com/groups/1415644258730905/posts/3156318301330150/)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9TkFFwCao-P49XqO0pVypyAg8paHLsUhyF1zK1FHia94iUQaiY1zsz5g&s=10)
 
 
 ## Impact of Bias
